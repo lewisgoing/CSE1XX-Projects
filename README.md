@@ -1,4 +1,4 @@
-# cse12X_Projects
+# CSE123 Projects
 
 This repository contains projects from the Java Programming III class.
 
