@@ -1,6 +1,6 @@
-# CSE123 Projects
+# CSE1XX Projects
 
-This repository contains projects from the Java Programming III class.
+This repository contains projects from the Honors Java Programming III class.
 
 ## Projects
 
